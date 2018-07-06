@@ -124,5 +124,4 @@ export default connect(
   mapDispatchToProps
 )(CourtPage)
 
-
-//Add comment for GUI testing
+//Adding comment for GUI testing

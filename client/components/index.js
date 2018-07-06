@@ -10,3 +10,6 @@ export {Login, Signup} from './auth-form'
 export {default as CourtPage} from './courtPage'
 export {default as HoopMap} from './map'
 export {default as HeatMap} from './heatMap'
+
+
+//Adding comment for GUI testing
