@@ -22,4 +22,5 @@ ReactDOM.render(
 
 
 //Added for GitGUI testing
-//Adding NEW line for testing
+
+//Adding new line for testing
